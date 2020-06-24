@@ -8,7 +8,7 @@ Suite Teardown       End suite
 *** Test Cases ***
 
 LoginAlert     	   
-	Appstate       	Google   
+	Appstate       	HomePage   
 	HoverText      	Quick Order                      
 	VerifyText     	Quick Order   
 	ClickText      	Quick Order           
