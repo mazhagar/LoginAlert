@@ -25,4 +25,4 @@ Appstate
 	...               HomePage
 
 HomePage
-	GoTo    https://cortzuser:p0o!0pen@its-stg-itsstore.sparkred.com/
+	GoTo    https://its-stg-itsstore.sparkred.com/
