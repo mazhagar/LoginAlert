@@ -22,7 +22,7 @@ LoginAlert
 	VerifyText     	$199.95   
 	ClickText      	Check Out                        
 	VerifyText     	Secure Checkout   
-	TypeText       	* E-Mail Address or User ID:   rsivakumar@dss-partners.com
+	TypeText       	* E-Mail Address or User ID:   stageits123@gmail.com
 	TypeText       	*Password:   123123   
 	VerifyInputValue	* E-Mail Address or User ID:   rsivakumar@dss-partners.com
 	VerifyInputValue	*Password:   123123
