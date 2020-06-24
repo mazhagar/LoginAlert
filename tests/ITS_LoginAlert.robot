@@ -27,7 +27,7 @@ LoginAlert
 	VerifyInputValue	* E-Mail Address or User ID:   stageits123@gmail.com
 	VerifyInputValue	*Password:   123123
 	ClickText      	Login and Checkout               
-	VerifyText     	SHIPPING ADDRESS   
+	#VerifyText     	SHIPPING ADDRESS   
 	ClickText      	Ship to this Address             
 	ClickCheckbox  	 paypal   paypal  
 	VerifyInputValue	paypal   paypal  	   
