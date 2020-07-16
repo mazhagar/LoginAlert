@@ -17,9 +17,9 @@ LoginAlert
 	VerifyInputValue	Item#   Y1004
 	VerifyInputValue	Qty   5
 	ClickText      	Add to cart                      
-	VerifyText     	Shopping Cart   
-	VerifyText     	Y1004   
-	VerifyText     	$199.95   
+	#VerifyText     	Shopping Cart   
+	#VerifyText     	Y1004   
+	#VerifyText     	$199.95   
 	ClickText      	Check Out                        
 	VerifyText     	Secure Checkout   
 	TypeText       	* E-Mail Address or User ID:   stageits123@gmail.com
