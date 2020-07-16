@@ -28,5 +28,5 @@ HomePage
 	GoTo    https://its-stg-itsstore.sparkred.com/
 	WriteText               cortzuser\t
    	WriteText               p0o!0pen\n
-	ClickText		Sign In
+	#ClickText		Sign In
 
